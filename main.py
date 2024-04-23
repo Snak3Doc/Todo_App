@@ -8,11 +8,11 @@ from PyQt6.QtWidgets import (QPushButton, QGroupBox, QCheckBox,
 
 from PyQt6.QtCore import Qt
 
-from rich import print
-from rich.traceback import install
-install(show_locals=True)
-from rich.console import Console
-console = Console()
+# from rich import print
+# from rich.traceback import install
+# install(show_locals=True)
+# from rich.console import Console
+# console = Console()
 
 ### Data ###
 
